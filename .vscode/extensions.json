@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "coenraads.bracket-pair-colorizer-2",
+    "drknoxy.eslint-disable-snippets",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "mike-co.import-sorter",
+    "mikestead.dotenv",
+    "richie5um2.vscode-sort-json",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}

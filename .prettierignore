@@ -1,0 +1,8 @@
+/coverage
+/build
+/dist
+/node_modules
+/.vscode
+/package-lock.json
+
+/src/react-app-env.d.ts

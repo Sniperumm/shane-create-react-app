@@ -1,0 +1,10 @@
+{
+  "comment": "Relaxed rules",
+  "default": true,
+  "no-inline-html": false,
+  "MD013": {
+    "heading_line_length": 140
+  },
+  "MD026": false,
+  "MD033": false
+}
